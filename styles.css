@@ -1,0 +1,58 @@
+.container {
+  width: 70%;
+  margin: auto;
+  text-align: center;
+}
+
+.dice {
+  text-align: center;
+  display: inline-block;
+
+}
+
+.btn {
+  background-color: #4ECCA3;
+  color: rgba(0, 0, 0, 0.842);
+  border-radius: 12px;
+  font-size: 15px;
+  font-weight: bold;
+
+  margin: 5%;
+
+  padding: 3%;
+
+}
+
+.btn:hover {
+  background-color: #158560;
+  color: black;
+}
+
+body {
+  background-color: rgba(0, 0, 0, 0.842);
+}
+
+h1 {
+  margin: 30px;
+
+  font-size: 8rem;
+  color: #4ECCA3;
+}
+
+p {
+  font-size: 2rem;
+  color: #4ECCA3;
+
+}
+
+img {
+  width: 80%;
+}
+
+footer {
+  margin-top: 5%;
+  color: white;
+  text-align: center;
+
+
+}
